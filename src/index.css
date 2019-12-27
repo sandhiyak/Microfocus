@@ -1,0 +1,39 @@
+body{
+
+  background: white;
+}
+  
+.header{
+  background-color: #36a0e3;
+}
+
+.con{
+  color: white ;
+  padding: 1%;
+}
+
+form{
+  margin: 6% 30% 10% 30%;
+  border: 5px solid gray;
+    padding: 25px;
+}
+button{
+  background-color: rgba(4, 56, 26, 0.9);
+  border: none;
+  width: 20%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+  color: white;
+}
+
+input{
+
+  background: rgba(241, 241, 241, .7);
+  width: 80%;
+  padding: 14px;
+  margin: 14px;
+  border-radius: 4px;
+  border:20px;
+  color: #3E3E3E;
+}
